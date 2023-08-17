@@ -1,0 +1,35 @@
+.heading{
+    margin:0px;
+    width:100%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.5);
+    font-size: 25px;
+}
+.not{
+    font-size: 20px;
+    color:rgb(250, 255, 0);
+    font-weight: bold;
+}
+body{
+    background-color: black;
+}
+.copyrightfooter{
+    bottom:0px;
+    width:100%;
+    font-size:20px;
+    background-color:rgb(0, 200, 255) !important;
+    color:rgb(0, 100, 0) !important;
+    line-height:3;
+    text-align:center;
+    position:fixed;
+}
+canvas{
+    border:5px solid rgb(255, 255, 255);
+    border-radius: 30px;
+}
+video{
+    border-radius:200px;
+    width:600px;
+    height: 600px;
+}
